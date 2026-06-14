@@ -63,4 +63,4 @@ Local event-contract signal analysis with a web dashboard, ESPN/market data inpu
 - LinkedIn: [haihan-jiang](https://www.linkedin.com/in/haihan-jiang/)
 - Email: [haihanj99@gmail.com](mailto:haihanj99@gmail.com)
 
-_Merged/open PR status was verified from GitHub on 2026-06-14. I keep merged work separate from review-in-progress work._
+_Merged PR status was verified from GitHub on 2026-06-14. I keep merged work separate from review-in-progress work._
