@@ -14,6 +14,20 @@ Best fit: SRE, Production Engineering, Infrastructure, Platform, Cloud/DevOps, a
 - Production context includes Meta monetization data infrastructure and SHEIN gateway infrastructure work.
 - Experience around production gateways, Kubernetes/AKS-style platforms, Kafka, ZooKeeper, Elasticsearch, Terraform, runbooks, dashboards, and operational automation.
 
+## Contributor Signals
+
+<p align="left">
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang+org%3Agoogle"><img alt="Google: 13 merged PRs" src="https://img.shields.io/badge/Google-13%20merged%20PRs-4285F4?style=flat-square&logo=google&logoColor=white"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang+org%3AGoogleCloudPlatform"><img alt="Google Cloud Platform: 3 merged PRs" src="https://img.shields.io/badge/Google%20Cloud-3%20merged%20PRs-1A73E8?style=flat-square&logo=googlecloud&logoColor=white"></a>
+  <a href="https://github.com/google/gvisor/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang"><img alt="gVisor contributor" src="https://img.shields.io/badge/gVisor-merged%20PRs-34A853?style=flat-square"></a>
+  <a href="https://github.com/google/syzkaller/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang"><img alt="syzkaller contributor" src="https://img.shields.io/badge/syzkaller-merged%20PRs-FBBC04?style=flat-square"></a>
+  <a href="https://github.com/GoogleCloudPlatform/khi/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang"><img alt="KHI contributor" src="https://img.shields.io/badge/KHI-merged%20PRs-1A73E8?style=flat-square"></a>
+  <a href="https://github.com/google/go-containerregistry/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang"><img alt="go-containerregistry contributor" src="https://img.shields.io/badge/go--containerregistry-merged%20PR-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
+  <a href="https://github.com/google/benchmark/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang"><img alt="Google Benchmark contributor" src="https://img.shields.io/badge/google%2Fbenchmark-merged%20PRs-5F6368?style=flat-square&logo=cplusplus&logoColor=white"></a>
+</p>
+
+Projects where my upstream PRs have been merged: `google/gvisor`, `google/syzkaller`, `GoogleCloudPlatform/khi`, `google/go-containerregistry`, `google/benchmark`, `google/stellar-engine`, and `GoogleCloudPlatform/vertex-ai-creative-studio`.
+
 ## Selected Upstream Work
 
 | Area | Evidence |
