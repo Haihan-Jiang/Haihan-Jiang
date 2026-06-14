@@ -4,11 +4,14 @@ Production / SRE / infrastructure engineer focused on reliable systems, Kubernet
 
 I like work where the result is reviewable: smaller diffs, clear failure modes, tests or gates that prove behavior, and evidence a future on-call engineer can trust.
 
+Best fit: SRE, Production Engineering, Infrastructure, Platform, Cloud/DevOps, and backend infrastructure roles close to real operations.
+
 ## Fast Proof
 
 - 16 merged PRs in Google and Google Cloud Platform maintained repositories.
 - Recent upstream work across `gVisor`, `syzkaller`, `KHI`, `go-containerregistry`, `google/benchmark`, `stellar-engine`, and `vertex-ai-creative-studio`.
 - Built a GKE AI inference reliability lab with OpenTelemetry traces, Kubernetes manifests, incident replay, and SLO-style evidence gates.
+- Production context includes Meta monetization data infrastructure and SHEIN gateway infrastructure work.
 - Experience around production gateways, Kubernetes/AKS-style platforms, Kafka, ZooKeeper, Elasticsearch, Terraform, runbooks, dashboards, and operational automation.
 
 ## Selected Upstream Work
