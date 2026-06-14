@@ -8,7 +8,7 @@ Best fit: SRE, Production Engineering, Infrastructure, Platform, Cloud/DevOps, a
 
 ## Fast Proof
 
-- 16 merged PRs in Google and Google Cloud Platform maintained repositories.
+- Verified upstream PRs merged in Google and Google Cloud Platform maintained repositories.
 - Recent upstream work across `gVisor`, `syzkaller`, `KHI`, `go-containerregistry`, `google/benchmark`, `stellar-engine`, and `vertex-ai-creative-studio`.
 - Built a GKE AI inference reliability lab with OpenTelemetry traces, Kubernetes manifests, incident replay, and SLO-style evidence gates.
 - Production context includes Meta monetization data infrastructure and SHEIN gateway infrastructure work.
@@ -17,8 +17,8 @@ Best fit: SRE, Production Engineering, Infrastructure, Platform, Cloud/DevOps, a
 ## Contributor Signals
 
 <p align="left">
-  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang+org%3Agoogle"><img alt="Google: 13 merged PRs" src="https://img.shields.io/badge/Google-13%20merged%20PRs-4285F4?style=flat-square&logo=google&logoColor=white"></a>
-  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang+org%3AGoogleCloudPlatform"><img alt="Google Cloud Platform: 3 merged PRs" src="https://img.shields.io/badge/Google%20Cloud-3%20merged%20PRs-1A73E8?style=flat-square&logo=googlecloud&logoColor=white"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang+org%3Agoogle"><img alt="Google upstream contributor" src="https://img.shields.io/badge/Google-upstream%20contributor-4285F4?style=flat-square&logo=google&logoColor=white"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang+org%3AGoogleCloudPlatform"><img alt="Google Cloud upstream contributor" src="https://img.shields.io/badge/Google%20Cloud-upstream%20contributor-1A73E8?style=flat-square&logo=googlecloud&logoColor=white"></a>
   <a href="https://github.com/google/gvisor/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang"><img alt="gVisor contributor" src="https://img.shields.io/badge/gVisor-merged%20PRs-34A853?style=flat-square"></a>
   <a href="https://github.com/google/syzkaller/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang"><img alt="syzkaller contributor" src="https://img.shields.io/badge/syzkaller-merged%20PRs-FBBC04?style=flat-square"></a>
   <a href="https://github.com/GoogleCloudPlatform/khi/pulls?q=is%3Apr+is%3Amerged+author%3AHaihan-Jiang"><img alt="KHI contributor" src="https://img.shields.io/badge/KHI-merged%20PRs-1A73E8?style=flat-square"></a>
