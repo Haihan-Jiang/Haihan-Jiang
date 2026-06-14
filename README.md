@@ -40,14 +40,6 @@ A runnable infrastructure lab for AI inference reliability:
 - SLO-style reliability gate with published evidence reports
 - GKE-shaped manifests for collector RBAC, PVC-backed queue storage, and sample workloads
 
-### [Engineering Profile](https://haihan-jiang.github.io/)
-
-A focused engineering profile with context on production systems, SRE judgment, field notes, and selected proof.
-
-### [Signal Deck](https://github.com/Haihan-Jiang/signal-deck)
-
-Local event-contract signal analysis with a web dashboard, ESPN/market data inputs, Telegram alerting, and mode-gated execution paths that default to non-live behavior.
-
 ## What I Optimize For
 
 - Production changes that can be rolled out, observed, and rolled back.
