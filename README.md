@@ -10,7 +10,8 @@ Best fit: SRE, Production Engineering, Infrastructure, Platform, Cloud/DevOps, a
 
 - Verified upstream PRs merged in Google and Google Cloud Platform maintained repositories.
 - Recent upstream work across `gVisor`, `syzkaller`, `KHI`, `go-containerregistry`, `google/benchmark`, `stellar-engine`, and `vertex-ai-creative-studio`.
-- Built a GKE AI inference reliability lab with OpenTelemetry traces, Kubernetes manifests, incident replay, and SLO-style evidence gates.
+- Built a GKE workload reliability lab with OpenTelemetry traces, Kubernetes manifests, incident replay, CI validation, SLO-style evidence gates, and production manifest review.
+- Upstream runtime and kernel-fuzzing work includes practical fixes in `gVisor` and `syzkaller`.
 - Production context includes Meta monetization data infrastructure and SHEIN gateway infrastructure work.
 - Experience around production gateways, Kubernetes/AKS-style platforms, Kafka, ZooKeeper, Elasticsearch, Terraform, runbooks, dashboards, and operational automation.
 
@@ -45,14 +46,24 @@ Live searches:
 
 ## Featured Builds
 
-### [GKE AI Inference Reliability Lab](https://github.com/Haihan-Jiang/gke-ai-workload-observability-recipes)
+### [GKE Workload Reliability Lab](https://github.com/Haihan-Jiang/gke-ai-workload-observability-recipes)
 
-A runnable infrastructure lab for AI inference reliability:
+A runnable Kubernetes reliability lab for production-style workloads:
 
 - OpenTelemetry trace collection and Kubernetes resource context
 - incident replay for baseline traffic, cache-miss latency, dependency timeout, and rollout regression
 - SLO-style reliability gate with published evidence reports
-- GKE-shaped manifests for collector RBAC, PVC-backed queue storage, and sample workloads
+- GKE-shaped manifests for collector RBAC, PVC-backed queue storage, NetworkPolicy, PDBs, and sample workloads
+- CI validation that regenerates evidence, checks JSON/YAML, runs tests, and enforces a Kubernetes production manifest review
+
+### [Release Evidence Gate](https://github.com/Haihan-Jiang/release-evidence-gate)
+
+An offline release go/no-go gate for production-adjacent rollouts:
+
+- evaluates baseline and canary windows from committed rollout evidence
+- checks error rate, p95 latency, burn rate, rollback events, pager alerts, change freeze state, and required approvals
+- writes JSON for automation and Markdown for release records
+- dependency-free Python package with unit tests and GitHub Actions CI
 
 ## What I Optimize For
 
