@@ -1,0 +1,337 @@
+{
+  "schema_version": 1,
+  "author": "Haihan-Jiang",
+  "verified_at_utc": "2026-09-07T19:25:50Z",
+  "scope": "Authored, merged pull requests to public, non-fork upstream repositories in the google and GoogleCloudPlatform organizations.",
+  "contributions": [
+    {
+      "repository": "GoogleCloudPlatform/composer-local-dev",
+      "area": "Airflow development environments",
+      "number": 135,
+      "title": "fix: write Airflow dependency file as runtime user",
+      "url": "https://github.com/GoogleCloudPlatform/composer-local-dev/pull/135",
+      "merged_at": "2026-09-03T11:42:46Z",
+      "merge_commit": "1802296e2ca7505845c9876ccde9f16d729b53de"
+    },
+    {
+      "repository": "GoogleCloudPlatform/composer-local-dev",
+      "area": "Airflow development environments",
+      "number": 136,
+      "title": "Add configurable start timeout",
+      "url": "https://github.com/GoogleCloudPlatform/composer-local-dev/pull/136",
+      "merged_at": "2026-09-03T11:39:33Z",
+      "merge_commit": "23b41be6e54027e5fbc0058d4d937870129a8338"
+    },
+    {
+      "repository": "GoogleCloudPlatform/khi",
+      "area": "Kubernetes diagnostics",
+      "number": 697,
+      "title": "Handle truncated Kubernetes audit logs",
+      "url": "https://github.com/GoogleCloudPlatform/khi/pull/697",
+      "merged_at": "2026-09-03T06:46:38Z",
+      "merge_commit": "127535176659261ea7fc355d22baf65d123c46ab"
+    },
+    {
+      "repository": "google/mcp-security",
+      "area": "Security automation and MCP",
+      "number": 257,
+      "title": "fix: correct case details response key",
+      "url": "https://github.com/google/mcp-security/pull/257",
+      "merged_at": "2026-08-29T23:28:53Z",
+      "merge_commit": "d560b7e9a00681d6398afe63747eb4d4b7d1af6b"
+    },
+    {
+      "repository": "google/mcp-security",
+      "area": "Security automation and MCP",
+      "number": 258,
+      "title": "fix: make SOAR cleanup idempotent",
+      "url": "https://github.com/google/mcp-security/pull/258",
+      "merged_at": "2026-08-29T22:50:27Z",
+      "merge_commit": "39558e0cf90e1e1af3d257832e7eca2361d8afff"
+    },
+    {
+      "repository": "google/mcp-security",
+      "area": "Security automation and MCP",
+      "number": 260,
+      "title": "fix: avoid creating SOAR session on close",
+      "url": "https://github.com/google/mcp-security/pull/260",
+      "merged_at": "2026-08-29T22:46:47Z",
+      "merge_commit": "8eb8a81a1f84426a92bcd3cc04f990e90e3d857f"
+    },
+    {
+      "repository": "google/mcp-security",
+      "area": "Security automation and MCP",
+      "number": 259,
+      "title": "fix: declare SOAR dotenv dependency",
+      "url": "https://github.com/google/mcp-security/pull/259",
+      "merged_at": "2026-08-29T22:40:51Z",
+      "merge_commit": "4b21c7d1c738351480a4efe07579b0342edcfee1"
+    },
+    {
+      "repository": "google/mcp-security",
+      "area": "Security automation and MCP",
+      "number": 261,
+      "title": "fix: align SOAR setup entrypoint",
+      "url": "https://github.com/google/mcp-security/pull/261",
+      "merged_at": "2026-08-29T22:34:02Z",
+      "merge_commit": "94650748a7cd980ac246d9919ef1ab01097deeeb"
+    },
+    {
+      "repository": "google/adk-go",
+      "area": "Agent integration documentation",
+      "number": 893,
+      "title": "docs: Explain adka2a handler wiring",
+      "url": "https://github.com/google/adk-go/pull/893",
+      "merged_at": "2026-08-21T10:30:38Z"
+    },
+    {
+      "repository": "google/stellar-engine",
+      "area": "Cloud bootstrap and IAM",
+      "number": 88,
+      "title": "[codex] Centralize deployment prerequisites",
+      "url": "https://github.com/google/stellar-engine/pull/88",
+      "merged_at": "2026-08-10T18:34:44Z"
+    },
+    {
+      "repository": "GoogleCloudPlatform/kubernetes-engine-samples",
+      "area": "GKE deployment and autoscaling samples",
+      "number": 2081,
+      "title": "Add safe-to-evict annotations to DRA installers",
+      "url": "https://github.com/GoogleCloudPlatform/kubernetes-engine-samples/pull/2081",
+      "merged_at": "2026-07-30T19:01:38Z",
+      "merge_commit": "2b5036514162a489145c5e5570bc320efbcb37bf"
+    },
+    {
+      "repository": "google/go-containerregistry",
+      "area": "Container image tooling",
+      "number": 2325,
+      "title": "Document tag and digest reference semantics",
+      "url": "https://github.com/google/go-containerregistry/pull/2325",
+      "merged_at": "2026-07-25T00:04:07Z"
+    },
+    {
+      "repository": "google/go-containerregistry",
+      "area": "Container image tooling",
+      "number": 2330,
+      "title": "Reject unsafe Windows archive paths in Extract",
+      "url": "https://github.com/google/go-containerregistry/pull/2330",
+      "merged_at": "2026-07-24T22:40:12Z",
+      "merge_commit": "84412cd0c875a4011633290f460c7416a3c20b4f"
+    },
+    {
+      "repository": "google/stellar-engine",
+      "area": "Cloud bootstrap and IAM",
+      "number": 89,
+      "title": "[codex] Clean up path to authorization markdown artifacts",
+      "url": "https://github.com/google/stellar-engine/pull/89",
+      "merged_at": "2026-07-07T15:27:00Z"
+    },
+    {
+      "repository": "GoogleCloudPlatform/kubernetes-engine-samples",
+      "area": "GKE deployment and autoscaling samples",
+      "number": 2082,
+      "title": "Fix Model Armor sample path",
+      "url": "https://github.com/GoogleCloudPlatform/kubernetes-engine-samples/pull/2082",
+      "merged_at": "2026-06-30T16:30:20Z"
+    },
+    {
+      "repository": "GoogleCloudPlatform/kubernetes-engine-samples",
+      "area": "GKE deployment and autoscaling samples",
+      "number": 2083,
+      "title": "Fix T5 model serving doc links",
+      "url": "https://github.com/GoogleCloudPlatform/kubernetes-engine-samples/pull/2083",
+      "merged_at": "2026-06-30T16:24:15Z"
+    },
+    {
+      "repository": "GoogleCloudPlatform/opentelemetry-operator-sample",
+      "area": "Observability deployment documentation",
+      "number": 135,
+      "title": "Document Artifact Registry Docker auth setup",
+      "url": "https://github.com/GoogleCloudPlatform/opentelemetry-operator-sample/pull/135",
+      "merged_at": "2026-06-29T14:49:37Z"
+    },
+    {
+      "repository": "GoogleCloudPlatform/vertex-ai-creative-studio",
+      "area": "AI tooling and cloud configuration",
+      "number": 1444,
+      "title": "Fix Pixie transitions for short clips",
+      "url": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/pull/1444",
+      "merged_at": "2026-06-26T00:19:59Z"
+    },
+    {
+      "repository": "GoogleCloudPlatform/vertex-ai-creative-studio",
+      "area": "AI tooling and cloud configuration",
+      "number": 1439,
+      "title": "Default character consistency image selection",
+      "url": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/pull/1439",
+      "merged_at": "2026-06-26T00:18:16Z"
+    },
+    {
+      "repository": "GoogleCloudPlatform/vertex-ai-creative-studio",
+      "area": "AI tooling and cloud configuration",
+      "number": 1440,
+      "title": "Document Gemini CLI cloud auth",
+      "url": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/pull/1440",
+      "merged_at": "2026-06-26T00:16:48Z"
+    },
+    {
+      "repository": "google/stellar-engine",
+      "area": "Cloud bootstrap and IAM",
+      "number": 90,
+      "title": "[codex] Align DDG bootstrap region example",
+      "url": "https://github.com/google/stellar-engine/pull/90",
+      "merged_at": "2026-06-22T18:52:25Z"
+    },
+    {
+      "repository": "google/stellar-engine",
+      "area": "Cloud bootstrap and IAM",
+      "number": 87,
+      "title": "[codex] Align naming convention docs with DDG prefix",
+      "url": "https://github.com/google/stellar-engine/pull/87",
+      "merged_at": "2026-06-22T18:20:13Z"
+    },
+    {
+      "repository": "google/syzkaller",
+      "area": "Kernel fuzzing and diagnostics",
+      "number": 7388,
+      "title": "Improve AI job error reporting",
+      "url": "https://github.com/google/syzkaller/pull/7388",
+      "merged_at": "2026-06-15T07:33:35Z",
+      "merge_commit": "c700a26e3167d1fb6f7ba7a63bffe89404d3e888"
+    },
+    {
+      "repository": "GoogleCloudPlatform/khi",
+      "area": "Kubernetes diagnostics",
+      "number": 708,
+      "title": "Handle slog attributes in KHI log formatter",
+      "url": "https://github.com/GoogleCloudPlatform/khi/pull/708",
+      "merged_at": "2026-06-11T23:49:28Z"
+    },
+    {
+      "repository": "google/gvisor",
+      "area": "Linux runtime and cgroups",
+      "number": 13276,
+      "title": "runsc/cgroup: set swap for precreated cgroups",
+      "url": "https://github.com/google/gvisor/pull/13276",
+      "merged_at": "2026-06-11T22:18:32Z",
+      "merge_commit": "d127ea02e0025e9836b5bd5f819366723524bf08"
+    },
+    {
+      "repository": "google/gvisor",
+      "area": "Linux runtime and cgroups",
+      "number": 13275,
+      "title": "proc: include values in /proc/net/netstat",
+      "url": "https://github.com/google/gvisor/pull/13275",
+      "merged_at": "2026-06-11T18:39:17Z",
+      "merge_commit": "b5ab9cbdfe978d9bac9134557bc37af26bd2fcd1"
+    },
+    {
+      "repository": "GoogleCloudPlatform/khi",
+      "area": "Kubernetes diagnostics",
+      "number": 692,
+      "title": "fix: confirm refresh when backend disconnects",
+      "url": "https://github.com/GoogleCloudPlatform/khi/pull/692",
+      "merged_at": "2026-06-03T10:52:46Z"
+    },
+    {
+      "repository": "google/syzkaller",
+      "area": "Kernel fuzzing and diagnostics",
+      "number": 7420,
+      "title": "dashboard/app: avoid syzbot email reply loops",
+      "url": "https://github.com/google/syzkaller/pull/7420",
+      "merged_at": "2026-06-03T06:58:39Z",
+      "merge_commit": "199971f4d1f8167bfdbe6370c340d4752b829826"
+    },
+    {
+      "repository": "google/go-containerregistry",
+      "area": "Container image tooling",
+      "number": 2318,
+      "title": "fix(crane): avoid creating export tar on pull failure",
+      "url": "https://github.com/google/go-containerregistry/pull/2318",
+      "merged_at": "2026-06-02T18:50:55Z"
+    },
+    {
+      "repository": "google/syzkaller",
+      "area": "Kernel fuzzing and diagnostics",
+      "number": 7376,
+      "title": "pkg/report: parse int3 oops reports",
+      "url": "https://github.com/google/syzkaller/pull/7376",
+      "merged_at": "2026-06-01T14:03:30Z",
+      "merge_commit": "1095583bae1d2729a3b4be301cb6ddc85ced9e38"
+    },
+    {
+      "repository": "GoogleCloudPlatform/vertex-ai-creative-studio",
+      "area": "AI tooling and cloud configuration",
+      "number": 1445,
+      "title": "Expose Veo location in Terraform",
+      "url": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/pull/1445",
+      "merged_at": "2026-05-30T14:11:18Z"
+    },
+    {
+      "repository": "google/benchmark",
+      "area": "C++ benchmarking and build tooling",
+      "number": 2204,
+      "title": "Skip perf counter tests when counters are unavailable",
+      "url": "https://github.com/google/benchmark/pull/2204",
+      "merged_at": "2026-05-27T04:10:22Z"
+    },
+    {
+      "repository": "google/benchmark",
+      "area": "C++ benchmarking and build tooling",
+      "number": 2201,
+      "title": "Clarify DoNotOptimize const-ref warning",
+      "url": "https://github.com/google/benchmark/pull/2201",
+      "merged_at": "2026-05-27T03:46:28Z"
+    },
+    {
+      "repository": "google/benchmark",
+      "area": "C++ benchmarking and build tooling",
+      "number": 2199,
+      "title": "Skip errored runs when computing repetition statistics",
+      "url": "https://github.com/google/benchmark/pull/2199",
+      "merged_at": "2026-05-26T18:39:48Z",
+      "merge_commit": "d6303b29ba764c668e845dba20c4e50e21e5c8bd"
+    },
+    {
+      "repository": "google/stellar-engine",
+      "area": "Cloud bootstrap and IAM",
+      "number": 68,
+      "title": "Deprivilege bootstrap default service accounts",
+      "url": "https://github.com/google/stellar-engine/pull/68",
+      "merged_at": "2026-05-26T16:22:14Z",
+      "merge_commit": "f1f14dfd010f9645a4dc44fd3b042abe5478fbc7"
+    },
+    {
+      "repository": "google/benchmark",
+      "area": "C++ benchmarking and build tooling",
+      "number": 2203,
+      "title": "Document CMake embedding guidance",
+      "url": "https://github.com/google/benchmark/pull/2203",
+      "merged_at": "2026-05-26T09:03:02Z"
+    },
+    {
+      "repository": "google/benchmark",
+      "area": "C++ benchmarking and build tooling",
+      "number": 2200,
+      "title": "Document static library benchmark registration",
+      "url": "https://github.com/google/benchmark/pull/2200",
+      "merged_at": "2026-05-26T08:57:29Z"
+    },
+    {
+      "repository": "google/benchmark",
+      "area": "C++ benchmarking and build tooling",
+      "number": 2205,
+      "title": "Clarify benchmark_main CMake target usage",
+      "url": "https://github.com/google/benchmark/pull/2205",
+      "merged_at": "2026-05-26T08:41:49Z"
+    },
+    {
+      "repository": "google/benchmark",
+      "area": "C++ benchmarking and build tooling",
+      "number": 2198,
+      "title": "Fix pkg-config paths for absolute install dirs",
+      "url": "https://github.com/google/benchmark/pull/2198",
+      "merged_at": "2026-05-25T20:36:51Z"
+    }
+  ]
+}
